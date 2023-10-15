@@ -3,7 +3,7 @@
 `RejEx` (Rejecting via ExCeeD) is a GitHub repository containing the **RejEx** [1] algorithm.
 It refers to the paper titled *Unsupervised Anomaly Detection with Rejection* published at NeurIPS 2023.
 
-Check out the NeurIPS paper here: [ArXiv](https://arxiv.org/pdf/2305.13189.pdf)] and [OpenReview](https://openreview.net/pdf?id=WK8LQzzHwW)].
+Check out the NeurIPS paper here: [ArXiv](https://arxiv.org/pdf/2305.13189.pdf) and [OpenReview](https://openreview.net/pdf?id=WK8LQzzHwW).
 
 ## Abstract
 
@@ -15,7 +15,7 @@ The repository contains:
 - RejEx.py, a function that allows to get 1) the confidence values, 2) the predictions with rejection, and 3) the theoretical resutls (i.e., rejection rate, and the upper bounds on the rejection rate and the test cost);
 - Notebook.ipynb, a notebook showing how to use RejEx on an artificial dataset;
 
-To use RejEx, import the github repository or simply download the files. You can also find the benchmark datasets inside the folder Benchmark_Datasets or at this [[link](https://www.dbs.ifi.lmu.de/research/outlier-evaluation/DAMI/)].
+To use RejEx, import the github repository or simply download the files. You can also find the benchmark datasets at this [[link](https://www.dbs.ifi.lmu.de/research/outlier-evaluation/DAMI/)].
 
 
 ## Rejecting via ExCeeD (RejEx)
